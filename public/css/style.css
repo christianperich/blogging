@@ -1,0 +1,22 @@
+.card-body img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 3em;
+}
